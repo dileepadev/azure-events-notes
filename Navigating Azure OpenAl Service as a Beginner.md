@@ -1,4 +1,4 @@
-# Azure AI Notes
+# Navigating Azure OpenAl Service as a Beginner
 
 ## Azure OpenAI Service
 
